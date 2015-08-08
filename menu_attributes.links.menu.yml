@@ -1,0 +1,5 @@
+menu_attributes.admin:
+  title: 'Menu Attributes'
+  description: 'Manage menu attributes for all menus.'
+  parent: system.admin_config_ui
+  route_name: menu_attributes.admin

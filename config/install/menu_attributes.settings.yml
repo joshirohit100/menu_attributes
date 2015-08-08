@@ -1,0 +1,9 @@
+attribute_enable:
+  title: true
+  id: true
+  name: true
+  rel: true
+  class: true
+  style: false
+  target: true
+  tabindex: true
